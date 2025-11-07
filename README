@@ -1,0 +1,50 @@
+# 🛡️ Security Awareness Notes
+
+This repository contains short notes, reminders, and scripts related to cybersecurity awareness — perfect for quick learning or training refreshers.
+
+---
+
+## 📘 Contents
+1. [Password Security](notes/password-security.md)
+2. [Phishing Awareness](notes/phishing-awareness.md)
+3. [Data Protection](notes/data-protection.md)
+4. [Safe Internet Use](notes/safe-internet.md)
+
+---
+
+## 🧠 Objective
+To help students and employees improve their understanding of cybersecurity best practices in an accessible and organized way.
+
+---
+
+## 📂 Structure
+
+---
+
+## 🧰 Example Topics
+
+### Password Security
+- Use long passphrases (12+ characters).
+- Avoid using the same password across multiple accounts.
+- Enable multi-factor authentication (MFA).
+
+### Phishing Awareness
+- Be cautious of suspicious emails and attachments.
+- Verify URLs before clicking links.
+- Report suspicious messages to your IT/security team.
+
+---
+
+## 👩‍💻 Author
+**Neo Morule**  
+Information Security Enthusiast | ISO 27001 Advocate
+security-awareness-notes/
+│
+├── notes/
+│   ├── password-security.md        ← ✅ includes your password tips
+│   ├── phishing-awareness.md       ← ✅ includes phishing details
+│   ├── data-protection.md
+│   └── safe-internet.md
+│
+└── README.md
+#cybersecurity, #awareness, #infosec, #education
